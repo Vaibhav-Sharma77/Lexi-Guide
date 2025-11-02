@@ -1,0 +1,5 @@
+# Netlify redirects file
+/* /index.html 200
+
+# API proxy - redirect API calls to your backend
+/api/* https://your-backend-url.railway.app/api/:splat 200
