@@ -207,9 +207,8 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 📞 **Contact**
 
-- **Email**: iamsuraj187104@gmail.com
-- **Project Lead**: Suraj Mishra
-- **Location**: Bangalore, Karnataka, India
+- **Email**: vaibhavsharma7811@gmail.com
+- **Location**:  Roorkee,Uttarakhand,India
 
 ## 🙏 **Acknowledgments**
 
@@ -223,4 +222,5 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ⭐ **Star this repository if you find it helpful!**
 
 ![GitHub stars](https://img.shields.io/github/stars/yourusername/lexi-guide?style=social)
+
 ![GitHub forks](https://img.shields.io/github/forks/yourusername/lexi-guide?style=social)
